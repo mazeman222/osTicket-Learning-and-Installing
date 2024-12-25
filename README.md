@@ -1,6 +1,5 @@
 <p align="center">
-  ![Screenshot 2024-12-25 042807](https://github.com/user-attachments/assets/7b97dae8-15ff-45af-b3be-12c75f97f7ba)
-
+<img src="C:\Users\manny\Desktop\osTicket\Screenshot 2024-12-25 042807.png">
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
