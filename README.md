@@ -1,5 +1,5 @@
 <p align="center">
-<img src="C:\Users\manny\Desktop\osTicket\Screenshot 2024-12-25 042807.png">
+<img src="images/Screenshot%202024-12-25%20042807.png">
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
